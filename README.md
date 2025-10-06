@@ -23,3 +23,7 @@
 | `alpha` | Weighting factor for combining competence and similarity | `0.6` |
 | `knorae` | Use KNORA-E instead of default KNORA-U for selection | `False` |
 
+## Requirements
+- Python >= 3.9  
+- PyTorch == 2.8.0  
+- Torchvision == 0.19.0  
